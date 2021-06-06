@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "824541221700",
+    "firebase_url": "https://mobile-computing-793f8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mobile-computing-793f8",
+    "storage_bucket": "mobile-computing-793f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824541221700:android:5bb5ceb97855ee7f483d11",
+        "android_client_info": {
+          "package_name": "com.example.firebase_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824541221700-sv48mj015gjs675hcrn2o99lqmrmogvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWs3Darn67OZvvwPEtuT82TW6Dm73Afw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824541221700-sv48mj015gjs675hcrn2o99lqmrmogvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
